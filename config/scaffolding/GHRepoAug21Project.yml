@@ -3,7 +3,7 @@ info:
   model: int-scaffold
 packages:
 - name: GHRepoAug21Project
-  gitServerName: PRCH_GH
+  gitServerName: PRCH_GH_PVT
   gitUrl: https://github.com/prch-ibm
   gitUsername: prch-ibm
   gitBranch: release/testBranch
